@@ -2,6 +2,7 @@
 
 ## Olá eu sou o Sidney Dantas, Cientista de dados e Economista!
 
+### Aqui divulgo um poucos dos meus projetos pessoais e profissionais, também uso esse espaço para compartilhar os conteúdos das minhas aulas e capacitações
 
 <div style="display: inline_block"><br>
   
