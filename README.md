@@ -17,9 +17,8 @@
 ### Algumas empresas que passei:
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="HDI" height="80" width="80" src="imagens\hdi.png">
   
-  <img align="center" alt="HDI" height="80" width="80" src="download.png">
-  <img align="center" alt="HDI" height="80" width="80" src="download.png">
 </div>
   
   ##
