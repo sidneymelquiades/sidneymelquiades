@@ -6,11 +6,20 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   
+</div>
+
+
+### Algumas empresas que passei:
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="HDI" height="80" width="80" src="download.png">
+  <img align="center" alt="HDI" height="80" width="80" src="download.png">
 </div>
   
   ##
