@@ -17,7 +17,10 @@
 ### Algumas empresas que passei:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HDI" height="80" width="80" src="imagens\hdi.png">
+  <img align="center" alt="HDI" height="60" width="60" src="imagens\olx.png">
+  <img align="center" alt="HDI" height="60" width="60" src="imagens\shopee.png">
+  <img align="center" alt="HDI" height="60" width="60" src="imagens\hdi.png">
+  <img align="center" alt="HDI" height="60" width="60" src="imagens\porto.jfif">
   
 </div>
   
