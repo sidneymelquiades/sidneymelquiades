@@ -12,7 +12,15 @@
   <img align="center" alt="r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   
 </div>
-
+<div> 
+  
+  
+ 	
+### Possuo uma empresa de consultoria empresarial que ajuda empresas a melhorarem sua cultura data-driven:
+  
+  <a href="https://www.totdados.com/" target="_blank"> Tot Dados </a> 
+  
+</div>
 
 ### Algumas empresas que passei:
 
@@ -36,8 +44,8 @@
   
 </div>
 
-- 🔭 Atualmente trabalho na HDI Seguros
-- 🌱 Atualmente estou aprendendo Pyhthon e Go
+- 📝 Atualmente trabalho na HDI Seguros
+- ⚡ Atualmente estou focado em aplicações de Machine learning e IA
 - 📫 sidneymelquiadesdantas@gmail.com
 - 😄 Pronouns: He/Him
 
