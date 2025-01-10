@@ -1,9 +1,6 @@
 
 
-## Olá eu sou o Sidney Dantas, Cientista de dados e Economista!
-
-### Aqui divulgo um poucos dos meus projetos pessoais e profissionais, também uso esse espaço para compartilhar os conteúdos das minhas aulas e capacitações
-
+# Olá eu sou o Sidney Dantas, Cientista de dados e Economista!
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,15 +11,23 @@
 </div>
 <div> 
   
+## Bem-vindo ao meu GitHub!
+
+### Aqui compartilho projetos pessoais e profissionais, além de materiais relacionados às minhas aulas e capacitações. É um local para explorar minha trajetória, habilidades e minha paixão por dados.
+
+
   
- 	
-### Possuo uma empresa de consultoria empresarial que ajuda empresas a melhorarem sua cultura data-driven:
-  
-  <a href="https://www.totdados.com/" target="_blank"> Tot Dados </a> 
+### Sobre mim
+Atuo como Cientista de Dados na HDI Seguros, com foco em aplicações de Machine Learning e Inteligência Artificial. Também sou fundador da <a href="https://www.totdados.com/" target="_blank"> Tot Dados </a>, uma consultoria empresarial que auxilia organizações a desenvolverem uma cultura data-driven.
+
+Além disso, tenho experiência em análise de dados, estatística e construção de soluções inteligentes para diferentes segmentos.
+   
   
 </div>
 
-### Algumas empresas que passei:
+### Experiências anteriores
+
+Já contribui com importantes empresas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HDI" height="60" width="60" src="imagens\olx.png">
@@ -38,6 +43,7 @@
   
   
  	
+### Entre em contato:
 
   <a href = "mailto:sidneymelquiadesdantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sidneymelquiadedantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
